@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Test Q</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Sample Project</description>
+    <copyright>Copyright 2017</copyright>
+  </metadata>
+  <files>
+    <file src="bin\Debug\org.test.XXX.dll" target="lib\net452" />
+  </files>
+</package>
